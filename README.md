@@ -4,6 +4,7 @@ Tugas Kelompok UAS WebPro2 Semester 6 STMIK Antar Bangsa
 Membuat Sistem Informasi Manajemen Laundry
 
 Anggota Kelompok:
+
     1. Ibnu Fauzi - 2020030
     2. Iwan Saepudin - 2020033
     3. Sri Wahyuningsih - 2020035
